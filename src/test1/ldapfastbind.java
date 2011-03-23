@@ -16,7 +16,7 @@ import javax.naming.ldap.LdapContext;
 
 class FastBindConnectionControl implements Control {
 	/**
-	 * aaaaaaaaaa bbbbbb cccccccccc 2 555
+	 * aaaaaaaaaa bbbbbb cccccccccc 2 333 555
 	 */
 	private static final long serialVersionUID = -6816941722609631483L;
 	public byte[] getEncodedValue() {
