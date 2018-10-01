@@ -13,7 +13,14 @@ import javax.naming.NamingException;
 import javax.naming.ldap.Control;
 import javax.naming.ldap.InitialLdapContext;
 import javax.naming.ldap.LdapContext;
-
+/*
+ * b 111
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
 class FastBindConnectionControl implements Control {
 	/**
 	 * aaaaaaaaaa bbbbbb cccccccccc 2 333 555
