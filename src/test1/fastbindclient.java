@@ -5,6 +5,7 @@ package test1;
  * Sample JNDI application to use LDAP_SERVER_FAST_BIND connection control
  * 
  * This is just a test harness to invoke the ldapfastbind methods
+ * 111
  */
  
 class fastbindclient{
